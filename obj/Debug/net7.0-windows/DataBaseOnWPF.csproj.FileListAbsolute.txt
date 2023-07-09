@@ -1,0 +1,140 @@
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\Style.baml
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\RegWindow.g.cs
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\WindowDB.g.cs
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF_MarkupCompile.cache
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF_MarkupCompile.lref
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\DataBaseOnWPF.exe
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\DataBaseOnWPF.deps.json
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\DataBaseOnWPF.runtimeconfig.json
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\DataBaseOnWPF.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\DataBaseOnWPF.pdb
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\RegWindow.baml
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\WindowDB.baml
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.g.resources
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.AssemblyInfo.cs
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.CopyComplete
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\refint\DataBaseOnWPF.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.pdb
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\DataBaseOnWPF.genruntimeconfig.cache
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\obj\Debug\net7.0-windows\ref\DataBaseOnWPF.dll
+C:\Users\User\Desktop\новые\DataBaseOnWPF.net\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\Style.baml
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\AuthWindow.g.cs
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\RegWindow.g.cs
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\WindowDB.g.cs
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF_MarkupCompile.cache
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF_MarkupCompile.lref
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\refint\DataBaseOnWPF.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.pdb
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\DataBaseOnWPF.exe
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\DataBaseOnWPF.deps.json
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\DataBaseOnWPF.runtimeconfig.json
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\DataBaseOnWPF.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\DataBaseOnWPF.pdb
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\AuthWindow.baml
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\RegWindow.baml
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\WindowDB.baml
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.g.resources
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.AssemblyInfo.cs
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.csproj.CopyComplete
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\DataBaseOnWPF.genruntimeconfig.cache
+C:\Users\User\source\repos\WPF\DataBaseOnWPF.net exam\obj\Debug\net7.0-windows\ref\DataBaseOnWPF.dll
